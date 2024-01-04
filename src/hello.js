@@ -93,7 +93,7 @@ const Hello = () => {
   return (
     <>
       <div>
-        <label htmlFor="numberInput">Enter a number:</label>
+        <label htmlFor="numberInput">Enter  number:</label>
         <input
           type="number"
           id="numberInput"
